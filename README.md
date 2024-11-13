@@ -23,5 +23,3 @@ My first repository
 - **Sports Anime** – Love the adrenaline and teamwork!
 - **Romance Anime** – Heartwarming stories.
 - **Isekai Anime** – A favorite genre for fantasy and adventure.
-
-  Add favorite series list to README
